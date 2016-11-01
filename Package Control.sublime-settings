@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Case Conversion",
+		"ChangeQuotes",
+		"Git",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Predawn",
+		"RSpec",
+		"rspec-snippets",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}

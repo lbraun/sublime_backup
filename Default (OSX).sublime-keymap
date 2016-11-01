@@ -1,0 +1,12 @@
+[
+  { "keys": ["super+ö"], "command": "unindent" },
+  { "keys": ["super+ä"], "command": "indent" },
+  { "keys": ["super+shift+ö"], "command": "prev_view" },
+  { "keys": ["super+shift+ä"], "command": "next_view" },
+  // { "keys": ["ctrl+shift+ü"], "command": "erb" }
+  // { "keys": ["ctrl+shift+ü"], "command": "erb", "context":
+  //   [
+  //     { "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
+  //   ]
+  // }
+]
